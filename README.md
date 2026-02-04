@@ -35,8 +35,8 @@ Built with semantic HTML, modern CSS, and vanilla JavaScript, with a focus on cl
 
 ### 🔗 Links
 
-- 💡 Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/testimonial-grid-section-with-css-Wz0V818HmW)
-- 🌐 Live Site URL: [Live Demo](https://thewizard04-artcile-preview.vercel.app)
+- 💡 Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/article-preview-component-with-css-and-js-h7k2XVrvKY)
+- 🌐 Live Site URL: [Live Demo](https://thewizard04-article-preview.vercel.app)
 
 ---
 
